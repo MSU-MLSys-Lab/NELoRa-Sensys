@@ -1,4 +1,4 @@
-# SenSys2021-NELoRa
+# NELoRa
 
 This repository provides the codes for our SenSys 2021 paper
 
